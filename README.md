@@ -1,17 +1,20 @@
-# Smart Classroom and Timetable Schedular
+# Personal Portfolio Website
 
 # Overview
 
-The Smart Classroom and Timetable Scheduler is a static web-based project developed using HTML and CSS. It provides a simple and organized interface for displaying classroom information, class schedules, and timetables in a clean and user-friendly layout.
+This is a responsive personal portfolio website built using HTML and CSS. It showcases personal information, skills, projects, education, certifications, and contact details with a clean and modern design.
 
 # Features
 
-- Responsive and clean user interface
-- Home page with project overview
-- Classroom information section
-- Timetable display
-- Easy-to-read schedule layout
-- Simple navigation between sections
+- Responsive layout
+- Home section
+- About Me section
+- Skills section
+- Projects section
+- Education section
+- Certifications section
+- Contact section
+- Simple navigation bar
 
 # Technologies Used
 
@@ -20,26 +23,24 @@ The Smart Classroom and Timetable Scheduler is a static web-based project develo
 
 # Project Structure
 
-smart-classroom-timetable-scheduler/
-├── index.html
-├── style.css
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+portfolio/
+│── index.html
+│── style.css
+│── images/
+│── README.md
 
 # How to Run
 
-1. Download or clone the repository.
+1. Download or clone the project.
 2. Open the project folder.
-3. Open "index.html" in any modern web browser.
+3. Open "index.html" in any web browser.
 
 # Future Enhancements
 
-- Add JavaScript for dynamic timetable updates.
-- Integrate a database for timetable management.
-- Add user login and authentication.
-- Enable timetable editing and notifications.
+- Add dark mode
+- Add animations using CSS
+- Improve responsiveness
+- Add more projects and achievements
 
 # Author
 
