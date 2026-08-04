@@ -1,10 +1,10 @@
-#Smart Classroom and Timetable Scheduler
+# Smart Classroom and Timetable Schedular
 
-#Overview
+# Overview
 
 The Smart Classroom and Timetable Scheduler is a static web-based project developed using HTML and CSS. It provides a simple and organized interface for displaying classroom information, class schedules, and timetables in a clean and user-friendly layout.
 
-#Features
+# Features
 
 - Responsive and clean user interface
 - Home page with project overview
@@ -13,12 +13,12 @@ The Smart Classroom and Timetable Scheduler is a static web-based project develo
 - Easy-to-read schedule layout
 - Simple navigation between sections
 
-#Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
 
-#Project Structure
+# Project Structure
 
 smart-classroom-timetable-scheduler/
 ├── index.html
@@ -28,23 +28,23 @@ smart-classroom-timetable-scheduler/
 │   └── icons/
 └── README.md
 
-#How to Run
+# How to Run
 
 1. Download or clone the repository.
 2. Open the project folder.
 3. Open "index.html" in any modern web browser.
 
-#Future Enhancements
+# Future Enhancements
 
 - Add JavaScript for dynamic timetable updates.
 - Integrate a database for timetable management.
 - Add user login and authentication.
 - Enable timetable editing and notifications.
 
-#Author
+# Author
 
 Kashish
 
-#License
+# License
 
 This project is open source and available under the MIT License.
